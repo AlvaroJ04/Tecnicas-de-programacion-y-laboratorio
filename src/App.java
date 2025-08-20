@@ -14,7 +14,7 @@ public class App {
         System.out.print("y?");
         double y1=lector.nextDouble();
 
-        System.out.println("coordenadas del segundo punto");
+        System.out.println("coordenadas del primer punto");
         System.out.print("x?");
         double x2=lector.nextDouble();
         System.out.print("y?");
